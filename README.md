@@ -1,10 +1,10 @@
 # Project Title
 
-### Almabetter-Crytocurrency-Dashboard
+### CrytoCurrency-DashBoard
 
-## Demo Link
+## Demo Link 
 
-Access the live dashboard at https://almab-dashboard.netlify.app/
+Access the live dashboard at https://crptocurrency-dashboard.netlify.app/
 
 ## Table of Content:
 
@@ -16,7 +16,14 @@ Access the live dashboard at https://almab-dashboard.netlify.app/
 
 ## About The App
 
-Almabetter-Cryptocurrency-dashboard is an application that uses the coinGecko API and displays the data & charts and allow coin conversion based on user preferences.
+A cryptocurrency dashboard is quite similar. A crypto dashboard is a
+digital platform that lives on a website or an app (either desktop or
+mobile). Its primary function is to track your cryptocurrency accounts
+and coins and monitor their historical prices and current values so that
+you can manage both your crypto assets and related financial plans
+accordingly. The dashboard integrates with cryptocurrency exchanges or
+trackers like CoinMarketCap through an API or other tool to update your
+crypto assets in real-time.
 
 ## Screenshots
 
