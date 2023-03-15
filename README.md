@@ -4,7 +4,7 @@
 
 ## Demo Link 
 
-Access the live dashboard at 
+Access the live dashboard at - https://cryptocurrency-dashboard-new.netlify.app/
 
 ## Table of Content:
 
